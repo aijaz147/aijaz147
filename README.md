@@ -20,12 +20,12 @@ Welcome to my data universe! I'm a passionate data scientist with a knack for tu
 
 ### 🎓 Education & Certifications
 
-- **Master of Science in Data Science** - University of XYZ
+- **Master of Science in Data Science** - MUET
 - **Certified TensorFlow Developer** - TensorFlow Certificate Program
 
 ### 💡 Let's Collaborate!
 
-I'm always eager to collaborate on exciting data projects or engage in insightful discussions about the latest trends in data science. Feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+I'm always eager to collaborate on exciting data projects or engage in insightful discussions about the latest trends in data science. Feel free to reach out to me via [email](mailto:ahmedaijazdev@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aijaz-ahmedd/)).
 
 ### 🌟 Fun Fact
 
@@ -33,6 +33,5 @@ When I'm not crunching numbers, you can find me exploring new hiking trails or e
 
 ### 🚀 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/your_twitter_handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aijaz-ahmedd/))
 
