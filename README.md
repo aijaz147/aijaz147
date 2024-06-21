@@ -2,11 +2,11 @@
 
 ### 🚀 About Me
 
-Welcome to my data universe! I'm a passionate data scientist with a knack for turning raw numbers into actionable insights. Whether it's unraveling complex datasets or building machine learning models, I thrive on transforming data into meaningful stories.
+I'm a data analyst with a passion for uncovering insights from data. I enjoy cleaning, manipulating, and analyzing datasets to tell compelling stories and inform business decisions.
 
 ### 💼 Skills & Expertise
 
-- **Languages:** Python 🐍, R 📊, SQL 💾
+- **Languages:** Python 🐍, SQL 💾
 - **Machine Learning:** TensorFlow, PyTorch, Scikit-learn
 - **Data Visualization:** Matplotlib, Seaborn, Plotly 📊
 - **Big Data Tools:** Apache Spark, Hadoop
