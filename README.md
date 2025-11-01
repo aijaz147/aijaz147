@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm a data analyst with a passion for uncovering insights from data. I enjoy cleaning, manipulating, and analyzing datasets to tell compelling stories and inform business decisions.
+I'm Data & BI Analyst with a passion for uncovering insights from data. I enjoy cleaning, manipulating, and analyzing datasets to tell compelling stories and inform business decisions.
 
 ### 💼 Skills & Expertise
 
